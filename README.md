@@ -26,3 +26,15 @@ It demonstrates how fundamental computer science concepts can be applied in prac
 1. Compile the program:  
    ```bash
    javac Main.java
+
+
+   ---
+
+## 👨‍🎓 University Project
+This project was developed as part of the **CS112: Data Structures** course at Rutgers University.  
+
+## 👨‍💻 Author
+**Manav Sachin Patel**  
+- [LinkedIn](https://www.linkedin.com/in/manav-patel-211467333)  
+- [GitHub](https://github.com/ManavPatel-28)  
+

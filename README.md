@@ -28,10 +28,7 @@ It demonstrates how fundamental computer science concepts can be applied in prac
    javac Main.java
 
 
-   ---
-
-## 👨‍🎓 University Project
-This project was developed as part of the **CS112: Data Structures** course at Rutgers University.  
+   --- 
 
 ## 👨‍💻 Author
 **Manav Sachin Patel**  
